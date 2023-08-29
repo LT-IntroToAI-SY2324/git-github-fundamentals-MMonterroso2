@@ -1,8 +1,8 @@
 # :wave: The Basics of GitHub 
 
-## Berg Addendum
+## Berg Addendum Mia was here
 
-Please read through all of this in order to get an idea of what you will be doing with github this year.  You do not need to understand everything, but you will get a good workflow in order to complete our assignments.  
+Please read througmiah all of this in order to get an idea of what you will be doing with github this year.  You do not need to understand everything, but you will get a good workflow in order to complete our assignments.  
 
 ### To Complete:
 * Make some sort of change to this file, commit that change, and push it to your cloned repository.
